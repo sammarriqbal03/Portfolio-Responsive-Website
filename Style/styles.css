@@ -557,8 +557,8 @@ margin-top: 4rem;
     font-size: 5rem;
   }
   .home-img img{
-    width: 40vw;
-    height: 40vw;
+    width: 70vw;
+    height: 70vw;
     margin-top: -3rem;
   }
 .about{
@@ -596,6 +596,7 @@ margin-top: 4rem;
   }
 .home-img img{
   width: 80vw;
+  height: 80vw;
   margin-top: 4rem;
 }
 }
@@ -606,4 +607,5 @@ margin-top: 4rem;
   .contact form .input-box input{
     width: 100%;
   }
+
 }
